@@ -1,0 +1,1000 @@
+﻿Admin_Unit_Code,Sub_Unit_Code,Site_Name,Plot_Name,Location_Type,Year,Date,Start_Time,End_Time,Observer,Visit,Interval_Length,ID_Method,Distance,Flyover_Observed,Sex,Common_Name,Scientific_Name,AcceptedTSN,NPSTaxonCode,AOU_Code,PIF_Watchlist_Status,Regional_Stewardship_Status,Temperature,Humidity,Sky,Wind,Disturbance,Initial_Three_Min_Cnt
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Eastern Towhee,Pipilo erythrophthalmus,179276,83803,EATO,FALSE,TRUE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Calling,<= 50 Meters,FALSE,,White-breasted Nuthatch,Sitta carolinensis,178775,90935,WBNU,FALSE,FALSE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,2.5 - 5 min,Calling,50 - 100 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,2.5 - 5 min,Singing,<= 50 Meters,FALSE,,Orchard Oriole,Icterus spurius,179064,93634,OROR,FALSE,FALSE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,2.5 - 5 min,Visualization,<= 50 Meters,FALSE,,Northern Mockingbird,Mimus polyglottos,178620,88394,NOMO,FALSE,FALSE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,5 - 7.5 min,Singing,<= 50 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Horned Lark,Eremophila alpestris,554256,264079,HOLA,FALSE,FALSE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Mourning Dove,Zenaida macroura,177125,82737,MODO,FALSE,FALSE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,5 - 7.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Field Sparrow,Spizella pusilla,179443,84790,FISP,FALSE,TRUE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,7.5 - 10 min,Visualization,<= 50 Meters,FALSE,,Carolina Chickadee,Poecile carolinensis,554383,265876,CACH,FALSE,TRUE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Wood-Pewee,Contopus virens,178359,85846,EAWP,FALSE,TRUE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,2.5 - 5 min,Calling,50 - 100 Meters,FALSE,,American Crow,Corvus brachyrhynchos,179731,87106,AMCR,FALSE,FALSE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,2.5 - 5 min,Singing,<= 50 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,7.5 - 10 min,Singing,<= 50 Meters,FALSE,Undetermined,Yellow Warbler,Setophaga petechia,950039,773778,YEWA,FALSE,FALSE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,2.5 - 5 min,Visualization,<= 50 Meters,FALSE,,Mourning Dove,Zenaida macroura,177125,82737,MODO,FALSE,FALSE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,22/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,2.5 - 5 min,Singing,<= 50 Meters,FALSE,Undetermined,Field Sparrow,Spizella pusilla,179443,84790,FISP,FALSE,TRUE,19.89999962,79.40000153,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,5 - 7.5 min,Calling,50 - 100 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,20.79999924,72.19999695,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,7.5 - 10 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,20.79999924,72.19999695,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,20.79999924,72.19999695,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Eastern Bluebird,Sialia sialis,179801,87184,EABL,FALSE,FALSE,20.79999924,72.19999695,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Calling,<= 50 Meters,FALSE,,Downy Woodpecker,Picoides pubescens,178259,84936,DOWO,FALSE,TRUE,20.79999924,72.19999695,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Chipping Sparrow,Spizella passerina,179435,84781,CHSP,FALSE,FALSE,20.79999924,72.19999695,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,2.5 - 5 min,Singing,<= 50 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,20.79999924,72.19999695,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,20.79999924,72.19999695,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,7.5 - 10 min,Singing,<= 50 Meters,FALSE,,Baltimore Oriole,Icterus galbula,179083,93655,BAOR,FALSE,FALSE,20.79999924,72.19999695,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,20.79999924,72.19999695,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,2.5 - 5 min,Calling,50 - 100 Meters,FALSE,,Great Crested Flycatcher,Myiarchus crinitus,178309,85791,GCFL,FALSE,FALSE,20.79999924,72.19999695,Cloudy/Overcast,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Wood-Pewee,Contopus virens,178359,85846,EAWP,FALSE,TRUE,21.70000076,75.80000305,Mist/Drizzle,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,7.5 - 10 min,Singing,50 - 100 Meters,FALSE,Undetermined,Field Sparrow,Spizella pusilla,179443,84790,FISP,FALSE,TRUE,21.70000076,75.80000305,Mist/Drizzle,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,2.5 - 5 min,Singing,<= 50 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,21.70000076,75.80000305,Mist/Drizzle,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Mourning Dove,Zenaida macroura,177125,82737,MODO,FALSE,FALSE,21.70000076,75.80000305,Mist/Drizzle,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,21.70000076,75.80000305,Mist/Drizzle,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,21.70000076,75.80000305,Mist/Drizzle,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,7.5 - 10 min,Singing,<= 50 Meters,FALSE,Undetermined,Field Sparrow,Spizella pusilla,179443,84790,FISP,FALSE,TRUE,21.70000076,75.80000305,Mist/Drizzle,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,7.5 - 10 min,Singing,50 - 100 Meters,FALSE,Undetermined,Chipping Sparrow,Spizella passerina,179435,84781,CHSP,FALSE,FALSE,21.70000076,75.80000305,Mist/Drizzle,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,5 - 7.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Eastern Towhee,Pipilo erythrophthalmus,179276,83803,EATO,FALSE,TRUE,21.70000076,75.80000305,Mist/Drizzle,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Field Sparrow,Spizella pusilla,179443,84790,FISP,FALSE,TRUE,21.70000076,75.80000305,Mist/Drizzle,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,5 - 7.5 min,Calling,<= 50 Meters,FALSE,,Blue-gray Gnatcatcher,Polioptila caerulea,179853,88038,BGGN,FALSE,FALSE,21.70000076,75.80000305,Mist/Drizzle,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,Carolina Chickadee,Poecile carolinensis,554383,265876,CACH,FALSE,TRUE,21.70000076,75.80000305,Mist/Drizzle,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,5 - 7.5 min,Calling,<= 50 Meters,FALSE,,Cedar Waxwing,Bombycilla cedrorum,178532,88296,CEDW,FALSE,FALSE,21.70000076,75.80000305,Mist/Drizzle,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,22/05/18,00/01/00,00/01/00,Kimberly Serno,1,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Towhee,Pipilo erythrophthalmus,179276,83803,EATO,FALSE,TRUE,21.70000076,75.80000305,Mist/Drizzle,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Blue Jay,Cyanocitta cristata,179680,86252,BLJA,FALSE,FALSE,28.5,66,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,7.5 - 10 min,Visualization,<= 50 Meters,FALSE,Undetermined,Eastern Bluebird,Sialia sialis,179801,87184,EABL,FALSE,FALSE,28.5,66,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Calling,50 - 100 Meters,FALSE,,American Goldfinch,Spinus tristis,179236,95300,AMGO,FALSE,FALSE,28.5,66,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Visualization,,TRUE,,Cedar Waxwing,Bombycilla cedrorum,178532,88296,CEDW,FALSE,FALSE,28.5,66,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Field Sparrow,Spizella pusilla,179443,84790,FISP,FALSE,TRUE,28.5,66,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,28.5,66,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,5 - 7.5 min,Visualization,,TRUE,,Red-winged Blackbird,Agelaius phoeniceus,179045,93613,RWBL,FALSE,FALSE,28.5,66,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,,Northern Mockingbird,Mimus polyglottos,178620,88394,NOMO,FALSE,FALSE,28.5,66,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,27.5,62.90000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,5 - 7.5 min,Singing,<= 50 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,27.5,62.90000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,7.5 - 10 min,Visualization,<= 50 Meters,FALSE,Male,Pileated Woodpecker,Dryocopus pileatus,178166,84833,PIWO,FALSE,FALSE,27.5,62.90000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,7.5 - 10 min,Visualization,<= 50 Meters,FALSE,Undetermined,Pileated Woodpecker,Dryocopus pileatus,178166,84833,PIWO,FALSE,FALSE,27.5,62.90000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,27.5,62.90000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Calling,<= 50 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,27.5,62.90000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,5 - 7.5 min,Visualization,<= 50 Meters,FALSE,Undetermined,Brown-headed Cowbird,Molothrus ater,179112,94215,BHCO,FALSE,FALSE,27.5,62.90000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Field Sparrow,Spizella pusilla,179443,84790,FISP,FALSE,TRUE,27.5,62.90000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,27.5,62.90000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Wood-Pewee,Contopus virens,178359,85846,EAWP,FALSE,TRUE,27.5,62.90000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Cedar Waxwing,Bombycilla cedrorum,178532,88296,CEDW,FALSE,FALSE,27.5,62.90000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Calling,<= 50 Meters,FALSE,,Blue-gray Gnatcatcher,Polioptila caerulea,179853,88038,BGGN,FALSE,FALSE,27.5,62.90000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,5 - 7.5 min,Visualization,<= 50 Meters,FALSE,Male,Brown-headed Cowbird,Molothrus ater,179112,94215,BHCO,FALSE,FALSE,27.5,62.90000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Cedar Waxwing,Bombycilla cedrorum,178532,88296,CEDW,FALSE,FALSE,26.10000038,61.20000076,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,26.10000038,61.20000076,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,,Carolina Chickadee,Poecile carolinensis,554383,265876,CACH,FALSE,TRUE,26.10000038,61.20000076,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Calling,<= 50 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,26.10000038,61.20000076,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,26.10000038,61.20000076,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,26.10000038,61.20000076,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Red-eyed Vireo,Vireo olivaceus,179021,93587,REVI,FALSE,FALSE,26.10000038,61.20000076,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Eastern Bluebird,Sialia sialis,179801,87184,EABL,FALSE,FALSE,26.10000038,61.20000076,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,23/05/18,00/01/00,00/01/00,Elizabeth Oswald,1,5 - 7.5 min,Calling,50 - 100 Meters,FALSE,,Unidentified Chickadee,Poecile,553526,263793,UNCH,FALSE,FALSE,26.10000038,61.20000076,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,5 - 7.5 min,Singing,<= 50 Meters,FALSE,,American Goldfinch,Spinus tristis,179236,95300,AMGO,FALSE,FALSE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,Blue-gray Gnatcatcher,Polioptila caerulea,179853,88038,BGGN,FALSE,FALSE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,5 - 7.5 min,Calling,50 - 100 Meters,FALSE,,Brown-headed Cowbird,Molothrus ater,179112,94215,BHCO,FALSE,FALSE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Wood-Pewee,Contopus virens,178359,85846,EAWP,FALSE,TRUE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,7.5 - 10 min,Calling,<= 50 Meters,FALSE,,Hairy Woodpecker,Picoides villosus,178262,85739,HAWO,FALSE,FALSE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,5 - 7.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,7.5 - 10 min,Calling,<= 50 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,7.5 - 10 min,Calling,50 - 100 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Red-eyed Vireo,Vireo olivaceus,179021,93587,REVI,FALSE,FALSE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,7.5 - 10 min,Singing,50 - 100 Meters,FALSE,Undetermined,Yellow-throated Vireo,Vireo flavifrons,179009,93573,YTVI,FALSE,TRUE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,24/05/18,00/01/00,00/01/00,Kimberly Serno,1,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Eastern Wood-Pewee,Contopus virens,178359,85846,EAWP,FALSE,TRUE,14,87.40000153,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,7.5 - 10 min,Singing,<= 50 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Singing,<= 50 Meters,FALSE,Undetermined,Song Sparrow,Melospiza melodia,179492,85643,SOSP,FALSE,FALSE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,7.5 - 10 min,Calling,<= 50 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Calling,<= 50 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Mourning Dove,Zenaida macroura,177125,82737,MODO,FALSE,FALSE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Grasshopper Sparrow,Ammodramus savannarum,179333,83867,GRSP,FALSE,FALSE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Field Sparrow,Spizella pusilla,179443,84790,FISP,FALSE,TRUE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Chipping Sparrow,Spizella passerina,179435,84781,CHSP,FALSE,FALSE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Carolina Chickadee,Poecile carolinensis,554383,265876,CACH,FALSE,TRUE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Brown-headed Cowbird,Molothrus ater,179112,94215,BHCO,FALSE,FALSE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,Blue-gray Gnatcatcher,Polioptila caerulea,179853,88038,BGGN,FALSE,FALSE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Visualization,,TRUE,,Barn Swallow,Hirundo rustica,178448,87409,BARS,FALSE,FALSE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Singing,<= 50 Meters,FALSE,Undetermined,American Goldfinch,Spinus tristis,179236,95300,AMGO,FALSE,FALSE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Singing,<= 50 Meters,FALSE,Undetermined,Chipping Sparrow,Spizella passerina,179435,84781,CHSP,FALSE,FALSE,27.29999924,52.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,23.79999924,57.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,7.5 - 10 min,Singing,<= 50 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,23.79999924,57.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,,American Goldfinch,Spinus tristis,179236,95300,AMGO,FALSE,FALSE,23.79999924,57.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Blue-gray Gnatcatcher,Polioptila caerulea,179853,88038,BGGN,FALSE,FALSE,23.79999924,57.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,Blue-gray Gnatcatcher,Polioptila caerulea,179853,88038,BGGN,FALSE,FALSE,23.79999924,57.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Chipping Sparrow,Spizella passerina,179435,84781,CHSP,FALSE,FALSE,23.79999924,57.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,23.79999924,57.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Calling,50 - 100 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,23.79999924,57.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Singing,<= 50 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,23.79999924,57.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Visualization,<= 50 Meters,FALSE,,Pileated Woodpecker,Dryocopus pileatus,178166,84833,PIWO,FALSE,FALSE,23.79999924,57.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Calling,50 - 100 Meters,FALSE,,American Crow,Corvus brachyrhynchos,179731,87106,AMCR,FALSE,FALSE,23.79999924,57.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,26.20000076,68.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Pileated Woodpecker,Dryocopus pileatus,178166,84833,PIWO,FALSE,FALSE,26.20000076,68.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Visualization,<= 50 Meters,FALSE,,Pileated Woodpecker,Dryocopus pileatus,178166,84833,PIWO,FALSE,FALSE,26.20000076,68.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Calling,<= 50 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,26.20000076,68.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Eastern Wood-Pewee,Contopus virens,178359,85846,EAWP,FALSE,TRUE,26.20000076,68.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Calling,50 - 100 Meters,FALSE,,Eastern Towhee,Pipilo erythrophthalmus,179276,83803,EATO,FALSE,TRUE,26.20000076,68.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Wood-Pewee,Contopus virens,178359,85846,EAWP,FALSE,TRUE,26.20000076,68.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,26.20000076,68.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Calling,<= 50 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,26.5,68.59999847,Clear or Few Clouds,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Red-eyed Vireo,Vireo olivaceus,179021,93587,REVI,FALSE,FALSE,26.5,68.59999847,Clear or Few Clouds,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Wood Thrush,Hylocichla mustelina,179777,87156,WOTH,TRUE,TRUE,26.5,68.59999847,Clear or Few Clouds,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,7.5 - 10 min,Calling,50 - 100 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,26.5,68.59999847,Clear or Few Clouds,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Calling,<= 50 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,26.5,68.59999847,Clear or Few Clouds,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,26.5,68.59999847,Clear or Few Clouds,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,26.5,68.59999847,Clear or Few Clouds,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Singing,<= 50 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,26.5,68.59999847,Clear or Few Clouds,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Eastern Wood-Pewee,Contopus virens,178359,85846,EAWP,FALSE,TRUE,26.5,68.59999847,Clear or Few Clouds,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Calling,<= 50 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,26.5,68.59999847,Clear or Few Clouds,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Calling,50 - 100 Meters,FALSE,,Pileated Woodpecker,Dryocopus pileatus,178166,84833,PIWO,FALSE,FALSE,26.5,68.59999847,Clear or Few Clouds,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,26.5,68.59999847,Clear or Few Clouds,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,26.5,68.59999847,Clear or Few Clouds,Calm (< 1 mph) smoke rises vertically,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Visualization,<= 50 Meters,FALSE,Undetermined,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,26.5,68.59999847,Clear or Few Clouds,Calm (< 1 mph) smoke rises vertically,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Eastern Wood-Pewee,Contopus virens,178359,85846,EAWP,FALSE,TRUE,25.5,66.5,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Calling,<= 50 Meters,FALSE,,Pileated Woodpecker,Dryocopus pileatus,178166,84833,PIWO,FALSE,FALSE,25.5,66.5,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Brown-headed Cowbird,Molothrus ater,179112,94215,BHCO,FALSE,FALSE,25.5,66.5,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,25.5,66.5,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Calling,<= 50 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,25.5,66.5,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Calling,50 - 100 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,25.5,66.5,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Red-eyed Vireo,Vireo olivaceus,179021,93587,REVI,FALSE,FALSE,25.5,66.5,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Wood Thrush,Hylocichla mustelina,179777,87156,WOTH,TRUE,TRUE,25.5,66.5,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,7.5 - 10 min,Singing,<= 50 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,25.5,66.5,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,7.5 - 10 min,Singing,<= 50 Meters,FALSE,Undetermined,American Robin,Turdus migratorius,179759,87136,AMRO,FALSE,FALSE,25.5,66.5,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,25.5,66.5,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Wood-Pewee,Contopus virens,178359,85846,EAWP,FALSE,TRUE,25.5,66.5,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,25.89999962,55.20000076,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,7.5 - 10 min,Singing,50 - 100 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,25.89999962,55.20000076,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,7.5 - 10 min,Calling,50 - 100 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,25.89999962,55.20000076,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,25.89999962,55.20000076,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,,Mourning Dove,Zenaida macroura,177125,82737,MODO,FALSE,FALSE,25.89999962,55.20000076,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Eastern Phoebe,Sayornis phoebe,178329,85813,EAPH,FALSE,FALSE,25.89999962,55.20000076,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Singing,<= 50 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,25.89999962,55.20000076,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,<= 50 Meters,FALSE,,Great Crested Flycatcher,Myiarchus crinitus,178309,85791,GCFL,FALSE,FALSE,25.89999962,55.20000076,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,25.89999962,55.20000076,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,25.89999962,55.20000076,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,25.89999962,55.20000076,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,5 - 7.5 min,Singing,<= 50 Meters,FALSE,,American Goldfinch,Spinus tristis,179236,95300,AMGO,FALSE,FALSE,25.89999962,55.20000076,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,24/05/18,00/01/00,00/01/00,Brian Swimelar,1,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,25.89999962,55.20000076,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,22.89999962,68.09999847,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,7.5 - 10 min,Singing,50 - 100 Meters,FALSE,Undetermined,House Finch,Haemorhous mexicanus,,926917,HOFI,FALSE,FALSE,22.89999962,68.09999847,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,5 - 7.5 min,Visualization,,TRUE,,Red-winged Blackbird,Agelaius phoeniceus,179045,93613,RWBL,FALSE,FALSE,22.89999962,68.09999847,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Red-winged Blackbird,Agelaius phoeniceus,179045,93613,RWBL,FALSE,FALSE,22.89999962,68.09999847,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Red-winged Blackbird,Agelaius phoeniceus,179045,93613,RWBL,FALSE,FALSE,22.89999962,68.09999847,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,22.89999962,68.09999847,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,Mourning Dove,Zenaida macroura,177125,82737,MODO,FALSE,FALSE,22.89999962,68.09999847,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Calling,<= 50 Meters,FALSE,,Mourning Dove,Zenaida macroura,177125,82737,MODO,FALSE,FALSE,22.89999962,68.09999847,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,22.89999962,68.09999847,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,American Goldfinch,Spinus tristis,179236,95300,AMGO,FALSE,FALSE,22.89999962,68.09999847,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,7.5 - 10 min,Calling,<= 50 Meters,FALSE,,American Goldfinch,Spinus tristis,179236,95300,AMGO,FALSE,FALSE,22.89999962,68.09999847,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,22.89999962,68.09999847,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Field Sparrow,Spizella pusilla,179443,84790,FISP,FALSE,TRUE,22.89999962,68.09999847,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0025,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Field Sparrow,Spizella pusilla,179443,84790,FISP,FALSE,TRUE,22.89999962,68.09999847,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,American Crow,Corvus brachyrhynchos,179731,87106,AMCR,FALSE,FALSE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,7.5 - 10 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,7.5 - 10 min,Singing,50 - 100 Meters,FALSE,,Northern Mockingbird,Mimus polyglottos,178620,88394,NOMO,FALSE,FALSE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,,Eastern Bluebird,Sialia sialis,179801,87184,EABL,FALSE,FALSE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,<= 50 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Calling,50 - 100 Meters,FALSE,,Mourning Dove,Zenaida macroura,177125,82737,MODO,FALSE,FALSE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Field Sparrow,Spizella pusilla,179443,84790,FISP,FALSE,TRUE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Chipping Sparrow,Spizella passerina,179435,84781,CHSP,FALSE,FALSE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,7.5 - 10 min,Calling,50 - 100 Meters,FALSE,,Yellow-billed Cuckoo,Coccyzus americanus,177831,89102,YBCU,FALSE,FALSE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Eastern Towhee,Pipilo erythrophthalmus,179276,83803,EATO,FALSE,TRUE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,5 - 7.5 min,Calling,<= 50 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0036,Forest,2018,25/06/18,00/01/00,00/01/00,Kimberly Serno,2,7.5 - 10 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Towhee,Pipilo erythrophthalmus,179276,83803,EATO,FALSE,TRUE,22.39999962,78.80000305,Cloudy/Overcast,Light breeze (4-7 mph) wind felt on face,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Wood Thrush,Hylocichla mustelina,179777,87156,WOTH,TRUE,TRUE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,<= 50 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,<= 50 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Field Sparrow,Spizella pusilla,179443,84790,FISP,FALSE,TRUE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,American Goldfinch,Spinus tristis,179236,95300,AMGO,FALSE,FALSE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Calling,50 - 100 Meters,FALSE,,American Crow,Corvus brachyrhynchos,179731,87106,AMCR,FALSE,FALSE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,American Crow,Corvus brachyrhynchos,179731,87106,AMCR,FALSE,FALSE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Calling,50 - 100 Meters,FALSE,,Mourning Dove,Zenaida macroura,177125,82737,MODO,FALSE,FALSE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,Great Crested Flycatcher,Myiarchus crinitus,178309,85791,GCFL,FALSE,FALSE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,5 - 7.5 min,Calling,<= 50 Meters,FALSE,,Common Grackle,Quiscalus quiscula,179104,94206,COGR,FALSE,FALSE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Downy Woodpecker,Picoides pubescens,178259,84936,DOWO,FALSE,TRUE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,7.5 - 10 min,Singing,50 - 100 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0072,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Calling,50 - 100 Meters,FALSE,,Blue Jay,Cyanocitta cristata,179680,86252,BLJA,FALSE,FALSE,17.89999962,71.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,7.5 - 10 min,Calling,50 - 100 Meters,FALSE,,Great Crested Flycatcher,Myiarchus crinitus,178309,85791,GCFL,FALSE,FALSE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,7.5 - 10 min,Singing,<= 50 Meters,FALSE,Undetermined,Scarlet Tanager,Piranga olivacea,179883,88071,SCTA,FALSE,TRUE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Yellow-throated Vireo,Vireo flavifrons,179009,93573,YTVI,FALSE,TRUE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Calling,<= 50 Meters,FALSE,,American Crow,Corvus brachyrhynchos,179731,87106,AMCR,FALSE,FALSE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,American Crow,Corvus brachyrhynchos,179731,87106,AMCR,FALSE,FALSE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,<= 50 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Wood-Pewee,Contopus virens,178359,85846,EAWP,FALSE,TRUE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,<= 50 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Singing,<= 50 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,5 - 7.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Red-eyed Vireo,Vireo olivaceus,179021,93587,REVI,FALSE,FALSE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,White-breasted Nuthatch,Sitta carolinensis,178775,90935,WBNU,FALSE,FALSE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Wood Thrush,Hylocichla mustelina,179777,87156,WOTH,TRUE,TRUE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0052,Forest,2018,26/06/18,00/01/00,00/01/00,Kimberly Serno,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,21.70000076,58.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,White-breasted Nuthatch,Sitta carolinensis,178775,90935,WBNU,FALSE,FALSE,21.29999924,69.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,<= 50 Meters,FALSE,,Unidentified Chickadee,Poecile,553526,263793,UNCH,FALSE,FALSE,21.29999924,69.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,,Eastern Bluebird,Sialia sialis,179801,87184,EABL,FALSE,FALSE,21.29999924,69.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Chipping Sparrow,Spizella passerina,179435,84781,CHSP,FALSE,FALSE,21.29999924,69.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,21.29999924,69.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,21.29999924,69.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Mourning Dove,Zenaida macroura,177125,82737,MODO,FALSE,FALSE,21.29999924,69.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,21.29999924,69.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Field Sparrow,Spizella pusilla,179443,84790,FISP,FALSE,TRUE,21.29999924,69.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Grasshopper Sparrow,Ammodramus savannarum,179333,83867,GRSP,FALSE,FALSE,21.29999924,69.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0190,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,<= 50 Meters,FALSE,,Eastern Kingbird,Tyrannus tyrannus,178279,85757,EAKI,FALSE,FALSE,21.29999924,69.5,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,25.10000038,67.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Wood Thrush,Hylocichla mustelina,179777,87156,WOTH,TRUE,TRUE,25.10000038,67.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Red-eyed Vireo,Vireo olivaceus,179021,93587,REVI,FALSE,FALSE,25.10000038,67.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Northern Parula,Setophaga americana,950033,890949,NOPA,FALSE,FALSE,25.10000038,67.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,<= 50 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,25.10000038,67.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,7.5 - 10 min,Singing,<= 50 Meters,FALSE,Undetermined,Brown-headed Cowbird,Molothrus ater,179112,94215,BHCO,FALSE,FALSE,25.10000038,67.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,American Goldfinch,Spinus tristis,179236,95300,AMGO,FALSE,FALSE,25.10000038,67.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0194,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,<= 50 Meters,FALSE,,Blue-gray Gnatcatcher,Polioptila caerulea,179853,88038,BGGN,FALSE,FALSE,25.10000038,67.90000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,Moderate effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,15.5,89.80000305,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,American Crow,Corvus brachyrhynchos,179731,87106,AMCR,FALSE,FALSE,15.5,89.80000305,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,15.5,89.80000305,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Blue-gray Gnatcatcher,Polioptila caerulea,179853,88038,BGGN,FALSE,FALSE,15.5,89.80000305,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Singing,<= 50 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,15.5,89.80000305,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Chipping Sparrow,Spizella passerina,179435,84781,CHSP,FALSE,FALSE,15.5,89.80000305,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Downy Woodpecker,Picoides pubescens,178259,84936,DOWO,FALSE,TRUE,15.5,89.80000305,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,5 - 7.5 min,Singing,<= 50 Meters,FALSE,,Downy Woodpecker,Picoides pubescens,178259,84936,DOWO,FALSE,TRUE,15.5,89.80000305,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,<= 50 Meters,FALSE,,Eastern Towhee,Pipilo erythrophthalmus,179276,83803,EATO,FALSE,TRUE,15.5,89.80000305,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,7.5 - 10 min,Calling,50 - 100 Meters,FALSE,,American Goldfinch,Spinus tristis,179236,95300,AMGO,FALSE,FALSE,15.5,89.80000305,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,15.5,89.80000305,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,<= 50 Meters,FALSE,,White-breasted Nuthatch,Sitta carolinensis,178775,90935,WBNU,FALSE,FALSE,15.5,89.80000305,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0200,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,15.5,89.80000305,Partly Cloudy,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,15.60000038,89.40000153,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Towhee,Pipilo erythrophthalmus,179276,83803,EATO,FALSE,TRUE,15.60000038,89.40000153,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,15.60000038,89.40000153,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Unidentified Chickadee,Poecile,553526,263793,UNCH,FALSE,FALSE,15.60000038,89.40000153,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Calling,50 - 100 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,15.60000038,89.40000153,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,15.60000038,89.40000153,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Wood Thrush,Hylocichla mustelina,179777,87156,WOTH,TRUE,TRUE,15.60000038,89.40000153,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,Yellow-billed Cuckoo,Coccyzus americanus,177831,89102,YBCU,FALSE,FALSE,15.60000038,89.40000153,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,American Crow,Corvus brachyrhynchos,179731,87106,AMCR,FALSE,FALSE,15.60000038,89.40000153,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,American Goldfinch,Spinus tristis,179236,95300,AMGO,FALSE,FALSE,15.60000038,89.40000153,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Blue-gray Gnatcatcher,Polioptila caerulea,179853,88038,BGGN,FALSE,FALSE,15.60000038,89.40000153,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,15.60000038,89.40000153,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Downy Woodpecker,Picoides pubescens,178259,84936,DOWO,FALSE,TRUE,15.60000038,89.40000153,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0206,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,<= 50 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,15.60000038,89.40000153,Clear or Few Clouds,Light breeze (4-7 mph) wind felt on face,Slight effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,,Scarlet Tanager,Piranga olivacea,179883,88071,SCTA,FALSE,TRUE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,7.5 - 10 min,Singing,50 - 100 Meters,FALSE,Undetermined,Yellow-throated Vireo,Vireo flavifrons,179009,93573,YTVI,FALSE,TRUE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Yellow-billed Cuckoo,Coccyzus americanus,177831,89102,YBCU,FALSE,FALSE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Wood Thrush,Hylocichla mustelina,179777,87156,WOTH,TRUE,TRUE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,<= 50 Meters,FALSE,,White-breasted Nuthatch,Sitta carolinensis,178775,90935,WBNU,FALSE,FALSE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,American Crow,Corvus brachyrhynchos,179731,87106,AMCR,FALSE,FALSE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Visualization,<= 50 Meters,FALSE,,Wild Turkey,Meleagris gallopavo,176136,86451,WITU,FALSE,FALSE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,<= 50 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Wood-Pewee,Contopus virens,178359,85846,EAWP,FALSE,TRUE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Singing,<= 50 Meters,FALSE,,American Goldfinch,Spinus tristis,179236,95300,AMGO,FALSE,FALSE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,Blue-gray Gnatcatcher,Polioptila caerulea,179853,88038,BGGN,FALSE,FALSE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0207,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Towhee,Pipilo erythrophthalmus,179276,83803,EATO,FALSE,TRUE,15.39999962,91.80000305,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Scarlet Tanager,Piranga olivacea,179883,88071,SCTA,FALSE,TRUE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Calling,50 - 100 Meters,FALSE,,Yellow-billed Cuckoo,Coccyzus americanus,177831,89102,YBCU,FALSE,FALSE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Yellow-throated Vireo,Vireo flavifrons,179009,93573,YTVI,FALSE,TRUE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Wood Thrush,Hylocichla mustelina,179777,87156,WOTH,TRUE,TRUE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Calling,50 - 100 Meters,FALSE,,White-breasted Nuthatch,Sitta carolinensis,178775,90935,WBNU,FALSE,FALSE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,5 - 7.5 min,Calling,50 - 100 Meters,FALSE,,Unidentified Chickadee,Poecile,553526,263793,UNCH,FALSE,FALSE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,,Pileated Woodpecker,Dryocopus pileatus,178166,84833,PIWO,FALSE,FALSE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Great Crested Flycatcher,Myiarchus crinitus,178309,85791,GCFL,FALSE,FALSE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Wood-Pewee,Contopus virens,178359,85846,EAWP,FALSE,TRUE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,5 - 7.5 min,Singing,50 - 100 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,7.5 - 10 min,Calling,<= 50 Meters,FALSE,,Blue-gray Gnatcatcher,Polioptila caerulea,179853,88038,BGGN,FALSE,FALSE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,American Goldfinch,Spinus tristis,179236,95300,AMGO,FALSE,FALSE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,TRUE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,FALSE
+ANTI,NA,ANTI 2,ANTI-0201,Forest,2018,26/06/18,00/01/00,00/01/00,Elizabeth Oswald,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,14.80000019,90.90000153,Partly Cloudy,Light breeze (4-7 mph) wind felt on face,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,2.5 - 5 min,Visualization,<= 50 Meters,FALSE,Male,Brown-headed Cowbird,Molothrus ater,179112,94215,BHCO,FALSE,FALSE,24.29999924,52.40000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,2.5 - 5 min,Singing,<= 50 Meters,FALSE,Undetermined,Brown-headed Cowbird,Molothrus ater,179112,94215,BHCO,FALSE,FALSE,24.29999924,52.40000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,2.5 - 5 min,Singing,<= 50 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,24.29999924,52.40000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,Cedar Waxwing,Bombycilla cedrorum,178532,88296,CEDW,FALSE,FALSE,24.29999924,52.40000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,0-2.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Chipping Sparrow,Spizella passerina,179435,84781,CHSP,FALSE,FALSE,24.29999924,52.40000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,0-2.5 min,Calling,50 - 100 Meters,FALSE,,American Crow,Corvus brachyrhynchos,179731,87106,AMCR,FALSE,FALSE,24.29999924,52.40000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,5 - 7.5 min,Singing,<= 50 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,24.29999924,52.40000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,7.5 - 10 min,Calling,<= 50 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,24.29999924,52.40000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,5 - 7.5 min,Calling,50 - 100 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,24.29999924,52.40000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0078,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,0-2.5 min,Singing,<= 50 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,24.29999924,52.40000153,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,7.5 - 10 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Wood-Pewee,Contopus virens,178359,85846,EAWP,FALSE,TRUE,29.60000038,49.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,0-2.5 min,Singing,<= 50 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,29.60000038,49.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,7.5 - 10 min,Calling,<= 50 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,29.60000038,49.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,0-2.5 min,Singing,<= 50 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,29.60000038,49.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,7.5 - 10 min,Singing,50 - 100 Meters,FALSE,Undetermined,Eastern Towhee,Pipilo erythrophthalmus,179276,83803,EATO,FALSE,TRUE,29.60000038,49.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,2.5 - 5 min,Singing,50 - 100 Meters,FALSE,Undetermined,American Robin,Turdus migratorius,179759,87136,AMRO,FALSE,FALSE,29.60000038,49.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,2.5 - 5 min,Visualization,<= 50 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,29.60000038,49.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Wood Thrush,Hylocichla mustelina,179777,87156,WOTH,TRUE,TRUE,29.60000038,49.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,2.5 - 5 min,Calling,<= 50 Meters,FALSE,,Red-bellied Woodpecker,Melanerpes carolinus,178195,84865,RBWO,FALSE,FALSE,29.60000038,49.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,0-2.5 min,Singing,<= 50 Meters,FALSE,,Acadian Flycatcher,Empidonax virescens,178339,85824,ACFL,FALSE,TRUE,29.60000038,49.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0092,Forest,2018,26/06/18,00/01/00,00/01/00,Brian Swimelar,2,2.5 - 5 min,Visualization,,TRUE,,American Crow,Corvus brachyrhynchos,179731,87106,AMCR,FALSE,FALSE,29.60000038,49.59999847,Clear or Few Clouds,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,25/06/18,00/01/00,00/01/00,Brian Swimelar,2,5 - 7.5 min,Calling,50 - 100 Meters,FALSE,,Carolina Chickadee,Poecile carolinensis,554383,265876,CACH,FALSE,TRUE,24.10000038,70,Cloudy/Overcast,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,25/06/18,00/01/00,00/01/00,Brian Swimelar,2,2.5 - 5 min,Singing,<= 50 Meters,FALSE,,Carolina Wren,Thryothorus ludovicianus,178581,88350,CARW,FALSE,FALSE,24.10000038,70,Cloudy/Overcast,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,25/06/18,00/01/00,00/01/00,Brian Swimelar,2,5 - 7.5 min,Calling,50 - 100 Meters,FALSE,,American Crow,Corvus brachyrhynchos,179731,87106,AMCR,FALSE,FALSE,24.10000038,70,Cloudy/Overcast,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,25/06/18,00/01/00,00/01/00,Brian Swimelar,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,American Robin,Turdus migratorius,179759,87136,AMRO,FALSE,FALSE,24.10000038,70,Cloudy/Overcast,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,25/06/18,00/01/00,00/01/00,Brian Swimelar,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Field Sparrow,Spizella pusilla,179443,84790,FISP,FALSE,TRUE,24.10000038,70,Cloudy/Overcast,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,25/06/18,00/01/00,00/01/00,Brian Swimelar,2,7.5 - 10 min,Calling,<= 50 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,24.10000038,70,Cloudy/Overcast,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,25/06/18,00/01/00,00/01/00,Brian Swimelar,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Northern Cardinal,Cardinalis cardinalis,179124,94228,NOCA,FALSE,FALSE,24.10000038,70,Cloudy/Overcast,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,25/06/18,00/01/00,00/01/00,Brian Swimelar,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,,Mourning Dove,Zenaida macroura,177125,82737,MODO,FALSE,FALSE,24.10000038,70,Cloudy/Overcast,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,25/06/18,00/01/00,00/01/00,Brian Swimelar,2,0-2.5 min,Singing,50 - 100 Meters,FALSE,Undetermined,Indigo Bunting,Passerina cyanea,179150,94257,INBU,FALSE,TRUE,24.10000038,70,Cloudy/Overcast,Light air movement (1-3 mph) smoke drifts,No effect on count,TRUE
+ANTI,NA,ANTI 1,ANTI-0082,Forest,2018,25/06/18,00/01/00,00/01/00,Brian Swimelar,2,2.5 - 5 min,Singing,<= 50 Meters,FALSE,,Eastern Tufted Titmouse,Baeolophus bicolor,554138,266957,ETTI,FALSE,FALSE,24.10000038,70,Cloudy/Overcast,Light air movement (1-3 mph) smoke drifts,No effect on count,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
