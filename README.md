@@ -36,12 +36,12 @@ This project analyses bird species distribution across Forest and Grassland ecos
 
 ## 📂 Project Structure
 Bird_Project
-👉 app.py
-👉 eda.py
-👉 cleaned_data.csv
-👉 data
-👉 screenshots
-👉 report.pdf
+- 👉 app.py
+- 👉 eda.py
+- 👉 cleaned_data.csv
+- 👉 data
+- 👉 screenshots
+- 👉 report.pdf
 
 ---
 
@@ -61,10 +61,10 @@ Bird_Project
 
 ---
 
-🌐 Live App:
-https://bird-species-observation-analysis-cqotyamp5rmtwacnpwmso9.streamlit.app/
-💻 GitHub: https://github.com/AchintyaKrishna/Bird-Species-Observation-Analysis
-🎥 Demo Video: https://youtu.be/rVKO2Cp0dlU
+## 🌐 Working Link 
+- Live App: https://bird-species-observation-analysis-cqotyamp5rmtwacnpwmso9.streamlit.app/
+- 💻 GitHub: https://github.com/AchintyaKrishna/Bird-Species-Observation-Analysis
+- 🎥 Demo Video: https://youtu.be/rVKO2Cp0dlU
 
 ---
 
