@@ -61,5 +61,12 @@ Bird_Project
 
 ---
 
+🌐 Live App:
+https://bird-species-observation-analysis-cqotyamp5rmtwacnpwmso9.streamlit.app/
+💻 GitHub: https://github.com/AchintyaKrishna/Bird-Species-Observation-Analysis
+🎥 Demo Video: https://youtu.be/rVKO2Cp0dlU
+
+---
+
 ## 👨‍💻 Author
 Achintya Krishna
