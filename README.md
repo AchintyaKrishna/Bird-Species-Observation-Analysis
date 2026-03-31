@@ -34,17 +34,6 @@ This project analyses bird species distribution across Forest and Grassland ecos
 
 ---
 
-## 📂 Project Structure
-Bird_Project
-- 👉 app.py
-- 👉 eda.py
-- 👉 cleaned_data.csv
-- 👉 data
-- 👉 screenshots
-- 👉 report.pdf
-
----
-
 ## 📈 Insights
 - Grasslands show higher observation density
 - Forests support unique species diversity
